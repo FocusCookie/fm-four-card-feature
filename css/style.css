@@ -55,6 +55,12 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
+}
+section {
+  max-width: 1110;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
   gap: 5.066em;
 }
 
