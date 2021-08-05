@@ -57,7 +57,7 @@ body {
   align-items: center;
 }
 section {
-  max-width: 1110;
+  max-width: 1110px;
   display: flex;
   flex-direction: column;
   align-items: center;
